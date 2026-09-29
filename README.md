@@ -76,4 +76,11 @@ The refresh interval and number of parallel requests can be changed in `appsetti
 - Data can be up to 60 seconds old. The best stories don't change that fast and it protects Hacker News.
 - It runs as a single instance, so an in-memory cache is enough.
 
+## Result
+<img width="1156" height="917" alt="image" src="https://github.com/user-attachments/assets/a6e5f696-a627-4514-8376-74f0d725f8eb" />
+<img width="1297" height="580" alt="image" src="https://github.com/user-attachments/assets/98b1f970-6e37-4d42-89a2-674b32ad9396" />
+
+
+
+
 
